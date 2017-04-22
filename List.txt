@@ -1,0 +1,6 @@
+LIST
+-meeting 1
+-meeting 2
+-research 
+https://code.tutsplus.com/tutorials/how-to-create-a-phpmysql-powered-forum-from-scratch--net-10188
+-aanmaken db
